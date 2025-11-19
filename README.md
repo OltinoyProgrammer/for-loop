@@ -1,2 +1,2 @@
 # for-loop
-masalaar yechish
+masalalar yechish
